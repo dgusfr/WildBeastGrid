@@ -15,7 +15,6 @@ Um site sobre lobos utilizando CSS Grid Layout para criar um design responsivo e
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Explicação](#explicação)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
 
