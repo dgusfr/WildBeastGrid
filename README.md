@@ -5,7 +5,7 @@ Um site sobre lobos utilizando CSS Grid Layout para criar um design responsivo e
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
@@ -38,6 +38,12 @@ Um site sobre lobos utilizando CSS Grid Layout para criar um design responsivo e
 
 Wildbeast é um site informativo sobre lobos, utilizando CSS Grid Layout para organizar e exibir o conteúdo de maneira atraente e responsiva.
 
+<div align="center">
+  <img src="img/logo2.png" alt="Imagem do Projeto" width="900">
+</div>
+
+<br></br>
+
 ## Funcionalidades
 
 - Navegação entre seções do site (Sobre, Animais, Contato).
@@ -61,17 +67,6 @@ Exemplo de código do projeto:
   </nav>
 </header>
 ```
-
-## Estrutura do Projeto 
-
-wildbeast/
-│
-├── css/
-│   └── style.css
-│
-├── img/
-│
-└── index.html
 
 ## Como Usar
 
