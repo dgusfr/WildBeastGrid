@@ -78,6 +78,6 @@ Exemplo de código do projeto:
 ## Autor
 Desenvolvido no curso de Grid Layout da Origamid.
 
-sobre esse projeto 
-foi um projeto de grande valor para mim 
-pois consegui aprender muito sobre CSS Gris Layot
+sobre esse projeto.
+foi um projeto de grande valor para mim .
+pois consegui aprender muito sobre CSS Gris Layot.
