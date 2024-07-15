@@ -83,4 +83,4 @@ foi um projeto de grande valor para mim .
 pois consegui aprender muito sobre CSS Gris Layot.
 
 about this project
-its a project
+its a project that i learn a lot
